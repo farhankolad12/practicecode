@@ -1,0 +1,56 @@
+body{
+    background-color:lightcyan;
+    font-family: Arial;
+}
+
+
+#li1{
+    font-size: 25px;
+    padding-left: 105px;
+    padding-right: 105px;
+    display: inline-flex;
+}
+
+.main{
+    display:inline-flex;
+    padding:10px;
+    background-color: darksalmon;
+    border-radius: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.blog1{
+    text-align:justify;
+    font-size: 25px;
+    padding: 10px;
+}
+
+#ques{
+    font-size: 25px;
+    padding: 10px;
+    text-align: justify;
+}
+
+#about{
+    font-size: 25px;
+    padding: 10px;
+    text-align:justify;
+}
+
+#imgs {
+    width: 500px;
+    height: 500px;
+    border-radius: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#emailus{
+    font-size: 25px;
+    padding: 10px;
+    text-align: justify;
+}
